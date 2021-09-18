@@ -1,6 +1,6 @@
 # Lasso-That-Football
 
-#### -- Project Status: [Active]
+#### -- Project Status: [Not Finished/Incomplete]
 
 ## Project Intro/Objective
 The objective of this project is to predict football player's values, to a high degree of accuracy, using machine learning models. The purpose of this project is to assist numerous stackholders in the buying/selling of football players. The potential audience for such a project includes, but is not limited to; football agents, clubs, scouts, football indexes, betting companies and footballers themselves.  
